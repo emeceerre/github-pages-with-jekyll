@@ -2,4 +2,4 @@
 title: "Welcome to my blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Bueno, pues esta es mi página. Espero que te interese lo que aquí escribo.
